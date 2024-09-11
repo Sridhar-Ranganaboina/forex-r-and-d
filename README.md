@@ -1,0 +1,1 @@
+# forex-r-and-d
